@@ -18,6 +18,11 @@ Check the status of the containers.
     docker-compose ps
 
 ## 3.
+Scale up the service.
+
+    docker-compose scale service1=3
+
+## 4.
 Run the server.
 
     python3 service.py
