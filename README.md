@@ -1,28 +1,21 @@
-# Distributed_System-Second_Floor
+# Distributed menu service
 This is a National Chengchi Univercity Distributed System Finals Demo.
-The following steps is a tutorial of how to run the project.
 
-## Requests.
-    Flask==0.11.1 requests==2.18.4
+## Run the service
 
-## 1.
-Git clone the repo.
-
-## 2.
 Start the Docker compose.
 
     docker-compose build --pull
     docker-compose up -d
+    
 Check the status of the containers.
 
     docker-compose ps
 
-## 3.
 Scale up the service.
 
     docker-compose scale service1=3
 
-## 4.
 Run the server.
 
     python3 service.py
