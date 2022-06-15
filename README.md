@@ -1,6 +1,12 @@
 # Distributed menu service
 This is a National Chengchi Univercity Distributed System Finals Demo.
 
+In ```fronyenvoy.yaml```:
+![image](images/frontenvoy.png)
+
+Represents the follwoing struture:
+![image](images/structure.png)
+
 ## Run the service
 
 Start the Docker compose.
