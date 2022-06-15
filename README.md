@@ -2,10 +2,13 @@
 This is a National Chengchi Univercity Distributed System Finals Demo.
 
 In ```fronyenvoy.yaml```:
-![image](images/frontenvoy.png)
+<br>
+<img src="images/frontenvoy.png" alt="drawing" width="450"/>
+
 
 Represents the follwoing struture:
-![image](images/structure.png)
+<br>
+<img src="images/structure.png" alt="drawing" width="450"/>
 
 ## Run the service
 
